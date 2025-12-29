@@ -13,4 +13,7 @@ Features:
 Note:
 The user will perform their calculations off screen
 
+IMPORTANT:
+This program is only known to run in windows thus far. If you run it in macOS or Linux there's a chance it may not work.
+
 This is the first release of Order-Sim. Bug reports and feedback are welcome via the Issues tab.
