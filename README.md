@@ -1,4 +1,4 @@
-Order-Sim is a minigame built in Visual Basic / Visual Studio that challenges players to analyze customer orders, select the correct options, and calculate the total cost under time pressure.
+Order-Sim is a minigame built in Visual Basic / Visual Studio that challenges players to analyze customer orders, select the correct options, and calculate the total cost under a limited amount of time.
 
 Features:
 - Randomly generated customer orders that the player must correctly match
